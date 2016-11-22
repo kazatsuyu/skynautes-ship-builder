@@ -1,0 +1,3 @@
+[submodule "submodules/dicentra"]
+	path = submodules/dicentra
+	url = git@github.com:kazatsuyu/dicentra
